@@ -1,0 +1,49 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179 105" width="179" height="105">
+	<title>dpad-svg</title>
+	<defs>
+		<image  width="122" height="63" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHoAAAA/AgMAAABSojSoAAAAAXNSR0IB2cksfwAAAAlQTFRFAAAAwSctAP+0J0YqwQAAAAN0Uk5TAAD/13QrUwAAAIZJREFUeJzt08ENgCAMBVCWgIMjOIVLwBBO4RKMwKGd0iaIIbHyo8TEA//6EqClNUZiA+d4yWIusQdzAk66u+KMPKo+cfWAphNwuaDtCTgBZ+QReFJ8rpyAM/Lt5w7er9WP+vek/53/j+YHzd+r+XbV9V37d7O/cP/XszrdfSinqz4yMvJJdqQIGrBOY+oMAAAAAElFTkSuQmCC"/>
+		<image  width="17" height="27" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAbCAMAAACtKJSuAAAAAXNSR0IB2cksfwAAAEVQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3Orq9wAAABd0Uk5TADAg/2+gn68QcM/Q71CQYMDgQN+wgPDGqq60AAAAe0lEQVR4nGXR4RKCMAwD4LCIgAhDhL3/o7rhabssP79b79YUyOkgCbyJ9ORdnuQMo5OpCB+OZn6pq4ZKnj9aqLTSEi/ZqPTywj1LBXyPKpwa2RrpGwkqq631nwEOBZwK2BWAZH+zmkuidXgVlBZffd4+1SeLnIMezJ/mA0seBMtk58UiAAAAAElFTkSuQmCC"/>
+		<image  width="100" height="105" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABpAgMAAACxEm4ZAAAAAXNSR0IB2cksfwAAAAlQTFRFwSctAP+0AAAAKXLTmQAAAAN0Uk5TAP8AaVI5rAAAAIFJREFUeJzt1LEVwCAIBFAsGIF9HMEit2SmjMbYeJI0yXspoLDgF1B4iIgk1Ef2qVpPURwxbI4AWEuqkpeirliVspQKbQWWNqatwKKnZFfKQgx9EAt6sSRX9JJMYpcUVzYS/EYQEoLv/5s9CudHXRk55TTeXIpRJHMjJCQkJOQlOQApBxijOuZNmQAAAABJRU5ErkJggg=="/>
+		<image  width="27" height="16" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAQCAMAAADQzfSkAAAAAXNSR0IB2cksfwAAAEVQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3Orq9wAAABd0Uk5TACCf379fYP8QzzDvcMCg8JCA4LBAUNDKqX28AAAAa0lEQVR4nHXQ2RZAIBQF0CIdTQj1/58q05K6nde97sjYF971YmBkJM6IsUmAqvElAj+qMKcCtfkZujZlOFYE2IdUTYC8zFEE6EQTTTCc6blhWNI4v1Ky7fc2YSqKo+X59dI7lxpEt/nwvOUAuqcIipm5lksAAAAASUVORK5CYII="/>
+		<image  width="122" height="105" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHoAAABpAgMAAACIdd9CAAAAAXNSR0IB2cksfwAAAAlQTFRFAAAAwSctAP+0J0YqwQAAAAN0Uk5TAAD/13QrUwAAAIVJREFUeJzt1MENgCAMhWFwRsuBEZhHNtBEmVIKHH2FaEyM6X/9Du2lNYaz5BNHs7nMulRDHpovwBun9WXf7/mkrv5jf3ofw47uMww6+h++eec/Hcip+ga9LhChd/4juRE/sJcFN8F5wSg4L0iCOx4vOPF4yUMeL7nP4yUvAdc0TdO0b3UC8ZUb9iH/0qYAAAAASUVORK5CYII="/>
+		<image  width="28" height="17" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAARCAMAAAD5TTx4AAAAAXNSR0IB2cksfwAAADlQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvHZQPQAAABN0Uk5TADBff6+/bz8Q/yCfQKBgcNCw8CnDFy8AAABqSURBVHicfdDrEoAQEIbhTw4hJPd/sdGoIcv795ndWYAa27iQOcHVjja9CdMllX1nDkMkXDFP0TOugTBDX0bPhU0WR11PuhYGHf+WWPPQODfApg5d90dgrQZgqoM1StinpOWbfTLe0jZ2AyglCfsRNZF5AAAAAElFTkSuQmCC"/>
+		<image  width="95" height="63" id="img7" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAAA/AgMAAAD71vw8AAAAAXNSR0IB2cksfwAAAAlQTFRFAAAAwSctAP+0J0YqwQAAAAN0Uk5TAAD/13QrUwAAAIBJREFUeJzt00sKgDAMRdHqGm0HWULW4xIc2KxSkX5o4IKCAwe+6YGknySElimeUbsSlzBCshIPUmF1oACtkodWybYRlMAAEoEQ9Ba2D2AAQqCPwQDm9wB7MOBx8eaJAB+Rn10I8GtxGHh8EkGvdXeoeQ1qk+wXp0geVu3Pny/mADp9G+DZL8d3AAAAAElFTkSuQmCC"/>
+		<image  width="17" height="28" id="img8" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAcCAMAAACwLaQWAAAAAXNSR0IB2cksfwAAADxQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0C8mMAAAABR0Uk5TABDPYDDf/++woJ/AQIBQ8NBwkOBblRVoAAAAgElEQVR4nGWR0RKDMAgEicazqRpj+///2kaRgXMfdwI5QMSRhEjDGEWeMEUxA/CPRnReLABrXlRYmQmU69e3ieu3NMDRzeIFVpENZNIcTbUgN5vUh5Gd+3DZGgJ3srDisdB00sPMh9fzD3hTNYQ7Rz5VCZtvmsadq+HLFyx0QeUHqzgHFebXRZoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #3ed8d2 } 
+		.s1 { opacity: .3;fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<use id="Layer" href="#img1" x="57" y="0"/>
+		<use id="Layer" style="opacity: .3" href="#img2" x="109" y="4"/>
+	</g>
+	<g id="Layer">
+		<use id="Layer" href="#img3" x="0" y="0"/>
+		<use id="Layer" style="opacity: .3" href="#img4" x="4" y="0"/>
+	</g>
+	<g id="Layer">
+		<use id="Layer" href="#img5" x="14" y="0"/>
+		<use id="Layer" style="opacity: .3" href="#img6" x="41" y="35"/>
+	</g>
+	<g id="Layer">
+		<use id="Layer" href="#img7" x="84" y="0"/>
+		<use id="Layer" style="opacity: .3" href="#img8" x="127" y="4"/>
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m108.8 87.6c-0.7 0.4-28.5 2.2-31.4-1.3-2.9-3.5-2.6-15.6-2.6-15.6 0 0-0.3-12.1 2.6-15.6 2.9-3.5 30.7-1.7 31.4-1.3 0.7 0.4 14.3 12 15.7 14 1.4 2 1.2 2.9 1.2 2.9 0 0 0.2 0.9-1.2 2.9-1.4 2-15 13.6-15.7 14z"/>
+		<path id="Layer" class="s1" d="m113.3 83.9q-0.8-1.5-1.5-3.1-0.6-1.6-1-3.3-0.5-1.6-0.7-3.3-0.2-1.8-0.2-3.5 0-1.7 0.2-3.4 0.3-1.7 0.7-3.4 0.4-1.7 1.1-3.3 0.6-1.6 1.4-3.1c4.3 3.7 10.3 9 11.2 10.3 1.4 2 1.2 2.9 1.2 2.9 0 0 0.2 0.9-1.2 2.9-0.9 1.3-6.9 6.6-11.2 10.3z"/>
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m34.6 70c0.4 0.7 2.2 28.5-1.3 31.4-3.5 2.9-15.6 2.6-15.6 2.6 0 0-12.1 0.3-15.6-2.6-3.5-2.9-1.7-30.7-1.3-31.4 0.4-0.7 12-14.3 14-15.7 2-1.4 2.9-1.2 2.9-1.2 0 0 0.9-0.2 2.9 1.2 2 1.3 13.6 15 14 15.7z"/>
+		<path id="Layer" class="s1" d="m30.9 65.5q-1.5 0.9-3.1 1.5-1.6 0.6-3.3 1.1-1.6 0.4-3.3 0.6-1.8 0.2-3.5 0.2-1.7 0-3.4-0.2-1.7-0.2-3.4-0.7-1.7-0.4-3.3-1-1.6-0.7-3.1-1.5c3.7-4.3 9-10.3 10.3-11.2 2-1.4 2.9-1.2 2.9-1.2 0 0 0.9-0.2 2.9 1.2 1.3 0.8 6.6 6.8 10.3 11.2z"/>
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m38.2 87.1c-0.4-0.7-2.2-28.5 1.3-31.4 3.5-2.9 15.6-2.6 15.6-2.6 0 0 12.1-0.3 15.6 2.6 3.5 2.9 1.7 30.7 1.3 31.4-0.4 0.7-12 14.3-14 15.7-2 1.4-2.9 1.2-2.9 1.2 0 0-0.9 0.2-2.9-1.2-2-1.4-13.6-15-14-15.7z"/>
+		<path id="Layer" class="s1" d="m41.9 91.6q1.5-0.8 3.1-1.5 1.6-0.6 3.3-1 1.7-0.5 3.4-0.7 1.7-0.2 3.4-0.2 1.7 0 3.5 0.2 1.7 0.3 3.3 0.7 1.7 0.4 3.3 1.1 1.6 0.6 3.1 1.4c-3.7 4.3-9 10.3-10.3 11.2-2 1.4-2.9 1.2-2.9 1.2 0 0-0.9 0.2-2.9-1.2-1.3-0.9-6.6-6.9-10.3-11.2z"/>
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m178.5 70.8c0 0 0.3 12.1-2.6 15.6-2.9 3.5-30.7 1.7-31.4 1.3-0.7-0.4-14.3-12-15.7-14-1.4-2-1.2-2.9-1.2-2.9 0 0-0.2-0.9 1.2-2.9 1.4-2 15-13.6 15.7-14 0.7-0.4 28.5-2.2 31.4 1.3 2.8 3.5 2.6 15.6 2.6 15.6z"/>
+		<path id="Layer" class="s1" d="m142.6 64q0.8 3.4 0.8 6.8 0 3.5-0.8 6.8-0.9 3.4-2.6 6.4c-4.3-3.7-10.3-9-11.2-10.3-1.4-2-1.2-2.9-1.2-2.9 0 0-0.2-0.9 1.2-2.9 0.9-1.3 6.9-6.6 11.2-10.3q1.7 3.1 2.6 6.4z"/>
+	</g>
+</svg>

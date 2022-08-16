@@ -1,6 +1,6 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(ps4-white-assets/basemod.svg);
+    background-image: url(ps4-white-assets/base.png);
 }
 
 .ds4.white.disconnected {
@@ -24,15 +24,15 @@
 }
 
 .ds4.white .button {
-    background-image: url(ps4-white-assets/facemod.svg);
+    background-image: url(ps4-white-assets/face.png);
 }
 
 .ds4.white .stick {
-    background-image: url(ps4-white-assets/sticksmod.svg);
+    background-image: url(ps4-white-assets/sticks.png);
 }
 
 .ds4.white .face {
-    background-image: url(ps4-white-assets/dpadmod.svg);
+    background-image: url(ps4-white-assets/dpad.png);
 }
 
 /*END PS4 White Controller Styling*/
